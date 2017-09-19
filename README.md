@@ -1,6 +1,6 @@
 # Sensi
 
-A JavaScript API wrapper for [Sensi thermostats](https://mythermostat.sensicomfort.com/).
+This is a JavaScript API wrapper for [Sensi thermostats](https://mythermostat.sensicomfort.com/). Originally written by [mguterl](https://github.com/mguterl), this one includes both heating and cooling and fan control.
 
 ## Usage
 
